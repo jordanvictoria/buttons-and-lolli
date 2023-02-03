@@ -2,7 +2,7 @@ import { fetchCompletions, fetchReservations, fetchClowns } from "./dataAccess.j
 import { ClownsForRent } from "./ClownsForRent.js"
 
 
-
+//i am testing GIT
 const mainContainer = document.querySelector("#container")
 
 
